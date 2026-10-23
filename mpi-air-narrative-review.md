@@ -2,16 +2,19 @@
 
 **Document type:** Bounded, AI-Assisted Narrative Review and Prior-Art Assessment. **Method qualifiers:** bounded, non-systematic, non-exhaustive; AI-assisted.
 
-**Status:** CANDIDATE DRAFT; NOT APPROVED; NOT VALIDATED; NOT PUBLICATION-READY. Formal Phase 1 OPEN. Phase 2 NOT STARTED.
+**Author:** Joseph Ribal Nasr  
+**Affiliation:** Independent Researcher  
+**Public version:** 1  
+**Research status:** Bounded review; not independently reviewed or validated. Formal Phase 1 OPEN. Phase 2 NOT STARTED.
 
 
 ## Abstract
 
-This article presents a bounded, non-systematic, non-exhaustive, AI-assisted narrative review of prior art relevant to the representation of multidisciplinary professional identities in information retrieval and generative AI. The frozen source corpus contains 45 bibliographic records provisionally grouped into 44 study clusters, with one confirmed journal/preprint duplicate. The examined areas include entity and identity reconciliation, temporal and bitemporal knowledge representation, provenance, and attributable information seeking; one selected publication reconstructs research contributors’ prior publication histories to study scholarly expertise breadth, and another describes developer author-alias disambiguation; neither establishes modeling of simultaneous professional roles or changing employment affiliations across disciplines. Literature searches were selective and non-exhaustive; examination depth varied across publications. Screening and synthesis were AI-assisted and were not independently adjudicated by human reviewers. The review maps established methods and proposes an unverified integration hypothesis for information-retrieval researchers and identity-data curators: on questions about concurrent and historical professional roles, an identity-linked, time-valid, source-attributed representation might reduce identity conflation, temporal misattribution, and unsupported answers relative to a simpler evidence-retrieval baseline. It does not establish that the combination has not previously been investigated, nor establish novelty or effectiveness. No MIRF system was implemented, no comparative evaluation conducted, and no accuracy improvement measured. The output is a preliminary mapping of selected prior art, not a systematic assessment or validated methodology.
+This article presents a bounded, non-systematic, non-exhaustive, AI-assisted narrative review of prior art relevant to the representation of multidisciplinary professional identities in information retrieval and generative AI. The frozen source corpus contains 45 bibliographic records provisionally grouped into 44 provisional study clusters, with one confirmed journal/preprint duplicate. The examined areas include entity and identity reconciliation, temporal and bitemporal knowledge representation, provenance, and attributable information seeking; one selected publication reconstructs research contributors’ prior publication histories to study scholarly expertise breadth, and another describes developer author-alias disambiguation; neither establishes modeling of simultaneous professional roles or changing employment affiliations across disciplines. Literature searches were selective and non-exhaustive; examination depth varied across publications. Screening and synthesis were AI-assisted and were not independently adjudicated by human reviewers. The review maps established methods and proposes an unverified integration hypothesis for information-retrieval researchers and identity-data curators: on questions about concurrent and historical professional roles, an identity-linked, time-valid, source-attributed representation might reduce identity conflation, temporal misattribution, and unsupported answers relative to a simpler evidence-retrieval baseline. It does not establish that the combination has not previously been investigated, nor establish novelty or effectiveness. No MIRF system was implemented, no comparative evaluation conducted, and no accuracy improvement measured. The output is a preliminary mapping of selected prior art, not a systematic assessment or validated methodology.
 
 ## Review scope and method
 
-The 45 bibliographic records in the bounded research corpus (44 provisional study clusters) were assembled through selective, bounded searches. Three inherited historical queries each retained 15 structured records; complete original raw result objects and full database denominators are unavailable. Later targeted provider queries and supplemental sources must not be reinterpreted as systematic coverage or silently added to the frozen base. Eligibility judgments are provisional and AI-assisted, not independently adjudicated. The journal DOI and arXiv preprint of *Building a PubMed Knowledge Graph* are one pair identified as the same study by inherited reconciliation; additional possible version pairs cannot be categorically ruled out.
+The 45 bibliographic records in the bounded research corpus (44 provisional study clusters) were assembled through selective, bounded searches. Three inherited historical queries each retained 15 structured records; complete original raw result objects and full database denominators are unavailable. Later targeted provider queries and supplemental sources must not be reinterpreted as systematic coverage or silently added to the frozen base. Eligibility judgments are provisional and AI-assisted, not independently adjudicated. The journal DOI (10.1038/s41597-020-0543-2) and arXiv preprint (arXiv:2005.04308) of *Building a PubMed Knowledge Graph* are two bibliographic records assigned to the same provisional cluster: 45 records → 44 provisional study clusters. Additional version duplicates may remain unidentified.
 
 ## Established prior-art areas and qualified synthesis
 
@@ -35,12 +38,22 @@ A separate, non-deposited claim-level research audit assesses **25 material manu
 
 - Not a systematic or exhaustive search, systematic literature review, validated framework, or proof of an original algorithm.
 - Variable evidence depth: complete primary HTML/PDF examinations, targeted body passages, and metadata or abstract-only entries are not equivalent.
-- The 44 study clusters are provisional; duplicate checking is incomplete outside the confirmed pair.
+- The 44 provisional study clusters remain subject to revision; duplicate checking is incomplete outside the confirmed pair.
 - All external experimental results are author-reported; no independent replication of those results was undertaken.
 - Independent human eligibility adjudication and originality assessment were not performed.
 - No MIRF solution was built; no comparative experiment, benchmark or accuracy measurement has been conducted.
 - Person linkage must respect permission, privacy, rights and sensitivity constraints; this review authorizes no real-person profiling, surveillance or sensitive-data processing.
 - The source corpus is fixed for this review. Later additions require a separately dated amendment outside the bounded evidence base.
+
+## Open questions
+
+The following questions define possible follow-up research rather than findings of this review:
+
+1. Does an integrated identity, temporal-validity, and provenance representation improve factual precision, temporal correctness, identity disambiguation, or citation support against a controlled retrieval baseline? **Untested.**
+2. Is the apparent absence of an exact multidisciplinary-career integration study a real gap or an artifact of this bounded search? **Unknown.**
+3. Do relevant career- or affiliation-modeling methods occur among the 36 records without claim-specific primary-passage checks? **Unresolved.**
+4. Are additional journal/preprint publication versions duplicated among the 36 records without claim-specific primary-passage checks? **Unresolved; 44 provisional study clusters remains an uncertain count.**
+5. Would a wider search or independently screened literature sample materially change this provisional synthesis? **Untested.**
 
 ## Conclusion
 
