@@ -4,6 +4,13 @@
 **Author:** Joseph Ribal Nasr (Independent Researcher)  
 **Type:** Bounded, AI-Assisted Narrative Review and Prior-Art Assessment (non-systematic, non-exhaustive)
 
+## Zenodo publication
+
+- Record: https://zenodo.org/records/23592679
+- DOI: https://doi.org/10.5281/zenodo.23592679
+
+This DOI identifies the deposited working paper. It does not imply peer review, validated implementation, or established scientific novelty.
+
 ## Deposit files
 
 - `mpi-air-narrative-review.pdf` — primary readable manuscript, public version 1 (9 pages).
