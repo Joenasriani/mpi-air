@@ -13,7 +13,9 @@ This DOI identifies the deposited working paper. It does not imply peer review, 
 
 ## Deposit files
 
-- `mpi-air-narrative-review.pdf` — primary readable manuscript, public version 1 (9 pages).
+Five source and documentation files are stored in this GitHub repository. The published deposit includes those five files and the PDF hosted on Zenodo.
+
+- `mpi-air-narrative-review.pdf` — primary readable manuscript, public version 1 (9 pages), available in the [Zenodo deposit](https://zenodo.org/records/23592679). The PDF is not stored in this GitHub repository.
 - `mpi-air-narrative-review.md` — manuscript source, public version 1.
 - `evidence-table.csv` — 45 bibliographic records mapped to 44 provisional study clusters; 9 narrow passage-checked records and 36 title/abstract-level publication classifications.
 - `search-and-limitations.md` — bounded search, provisional screening, duplicates, and scientific limitations.
