@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "Multidisciplinary Professional Identity in AI Retrieval: A Bounded Review of Relevant Prior Art",
+  "headline": "Multidisciplinary Professional Identity in AI Retrieval: A Bounded Review of Relevant Prior Art",
+  "description": "Bounded AI-assisted narrative review and prior-art assessment on multidisciplinary identity representation in AI retrieval.",
+  "author": {
+    "@type": "Person",
+    "name": "Joseph Ribal Nasr",
+    "alternateName": "Joe Nasr",
+    "sameAs": [
+      "https://orcid.org/0009-0004-5698-9097",
+      "https://joe-nasr-signals.vercel.app/"
+    ]
+  },
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.23592679",
+    "url": "https://doi.org/10.5281/zenodo.23592679"
+  },
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.23592679"
+  ],
+  "url": "https://zenodo.org/records/23592679",
+  "mainEntityOfPage": "https://zenodo.org/records/23592679",
+  "datePublished": "2026",
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "Evidence and validation limitations",
+    "value": "Non-systematic and non-exhaustive prior-art review; proposed integration remains untested, and scientific novelty is not established."
+  }
+}
